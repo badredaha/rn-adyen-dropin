@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.adyen.checkout:openbanking:4.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1b560a56a116bbce944c24962a0c1c2c/transformed/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1b560a56a116bbce944c24962a0c1c2c/transformed/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1b560a56a116bbce944c24962a0c1c2c/transformed/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

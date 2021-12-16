@@ -1,0 +1,839 @@
+androidx/transition/R.java
+ androidx.transition.R
+ androidx.transition.R$attr
+ androidx.transition.R$color
+ androidx.transition.R$dimen
+ androidx.transition.R$drawable
+ androidx.transition.R$id
+ androidx.transition.R$integer
+ androidx.transition.R$layout
+ androidx.transition.R$string
+ androidx.transition.R$style
+ androidx.transition.R$styleable
+com/adyen/checkout/core/R.java
+ com.adyen.checkout.core.R
+com/facebook/fbcore/R.java
+ com.facebook.fbcore.R
+androidx/print/R.java
+ androidx.print.R
+androidx/activity/ktx/R.java
+ androidx.activity.ktx.R
+ androidx.activity.ktx.R$attr
+ androidx.activity.ktx.R$color
+ androidx.activity.ktx.R$dimen
+ androidx.activity.ktx.R$drawable
+ androidx.activity.ktx.R$id
+ androidx.activity.ktx.R$integer
+ androidx.activity.ktx.R$layout
+ androidx.activity.ktx.R$string
+ androidx.activity.ktx.R$style
+ androidx.activity.ktx.R$styleable
+androidx/vectordrawable/R.java
+ androidx.vectordrawable.R
+ androidx.vectordrawable.R$attr
+ androidx.vectordrawable.R$color
+ androidx.vectordrawable.R$dimen
+ androidx.vectordrawable.R$drawable
+ androidx.vectordrawable.R$id
+ androidx.vectordrawable.R$integer
+ androidx.vectordrawable.R$layout
+ androidx.vectordrawable.R$string
+ androidx.vectordrawable.R$style
+ androidx.vectordrawable.R$styleable
+com/facebook/imagepipelinebase/R.java
+ com.facebook.imagepipelinebase.R
+androidx/lifecycle/livedata/core/R.java
+ androidx.lifecycle.livedata.core.R
+com/facebook/imagepipeline/R.java
+ com.facebook.imagepipeline.R
+androidx/appcompat/resources/R.java
+ androidx.appcompat.resources.R
+ androidx.appcompat.resources.R$attr
+ androidx.appcompat.resources.R$color
+ androidx.appcompat.resources.R$dimen
+ androidx.appcompat.resources.R$drawable
+ androidx.appcompat.resources.R$id
+ androidx.appcompat.resources.R$integer
+ androidx.appcompat.resources.R$layout
+ androidx.appcompat.resources.R$string
+ androidx.appcompat.resources.R$style
+ androidx.appcompat.resources.R$styleable
+com/facebook/drawee/backends/pipeline/R.java
+ com.facebook.drawee.backends.pipeline.R
+ com.facebook.drawee.backends.pipeline.R$attr
+ com.facebook.drawee.backends.pipeline.R$id
+ com.facebook.drawee.backends.pipeline.R$styleable
+androidx/arch/core/R.java
+ androidx.arch.core.R
+androidx/fragment/R.java
+ androidx.fragment.R
+ androidx.fragment.R$anim
+ androidx.fragment.R$animator
+ androidx.fragment.R$attr
+ androidx.fragment.R$color
+ androidx.fragment.R$dimen
+ androidx.fragment.R$drawable
+ androidx.fragment.R$id
+ androidx.fragment.R$integer
+ androidx.fragment.R$layout
+ androidx.fragment.R$string
+ androidx.fragment.R$style
+ androidx.fragment.R$styleable
+androidx/savedstate/R.java
+ androidx.savedstate.R
+ androidx.savedstate.R$id
+com/adyen/checkout/issuerlist/R.java
+ com.adyen.checkout.issuerlist.R
+ com.adyen.checkout.issuerlist.R$anim
+ com.adyen.checkout.issuerlist.R$animator
+ com.adyen.checkout.issuerlist.R$attr
+ com.adyen.checkout.issuerlist.R$bool
+ com.adyen.checkout.issuerlist.R$color
+ com.adyen.checkout.issuerlist.R$dimen
+ com.adyen.checkout.issuerlist.R$drawable
+ com.adyen.checkout.issuerlist.R$id
+ com.adyen.checkout.issuerlist.R$integer
+ com.adyen.checkout.issuerlist.R$interpolator
+ com.adyen.checkout.issuerlist.R$layout
+ com.adyen.checkout.issuerlist.R$plurals
+ com.adyen.checkout.issuerlist.R$string
+ com.adyen.checkout.issuerlist.R$style
+ com.adyen.checkout.issuerlist.R$styleable
+ com.adyen.checkout.issuerlist.R$xml
+com/facebook/react/R.java
+ com.facebook.react.R
+ com.facebook.react.R$anim
+ com.facebook.react.R$attr
+ com.facebook.react.R$bool
+ com.facebook.react.R$color
+ com.facebook.react.R$dimen
+ com.facebook.react.R$drawable
+ com.facebook.react.R$id
+ com.facebook.react.R$integer
+ com.facebook.react.R$layout
+ com.facebook.react.R$string
+ com.facebook.react.R$style
+ com.facebook.react.R$styleable
+ com.facebook.react.R$xml
+com/facebook/nativefilters/R.java
+ com.facebook.nativefilters.R
+com/adyen/checkout/wechatpay/R.java
+ com.adyen.checkout.wechatpay.R
+ com.adyen.checkout.wechatpay.R$anim
+ com.adyen.checkout.wechatpay.R$animator
+ com.adyen.checkout.wechatpay.R$attr
+ com.adyen.checkout.wechatpay.R$color
+ com.adyen.checkout.wechatpay.R$dimen
+ com.adyen.checkout.wechatpay.R$drawable
+ com.adyen.checkout.wechatpay.R$id
+ com.adyen.checkout.wechatpay.R$integer
+ com.adyen.checkout.wechatpay.R$layout
+ com.adyen.checkout.wechatpay.R$string
+ com.adyen.checkout.wechatpay.R$style
+ com.adyen.checkout.wechatpay.R$styleable
+androidx/interpolator/R.java
+ androidx.interpolator.R
+com/google/android/gms/maps/R.java
+ com.google.android.gms.maps.R
+ com.google.android.gms.maps.R$attr
+ com.google.android.gms.maps.R$id
+ com.google.android.gms.maps.R$styleable
+androidx/core/R.java
+ androidx.core.R
+ androidx.core.R$attr
+ androidx.core.R$color
+ androidx.core.R$dimen
+ androidx.core.R$drawable
+ androidx.core.R$id
+ androidx.core.R$integer
+ androidx.core.R$layout
+ androidx.core.R$string
+ androidx.core.R$style
+ androidx.core.R$styleable
+com/adyen/checkout/bcmc/R.java
+ com.adyen.checkout.bcmc.R
+ com.adyen.checkout.bcmc.R$anim
+ com.adyen.checkout.bcmc.R$animator
+ com.adyen.checkout.bcmc.R$attr
+ com.adyen.checkout.bcmc.R$bool
+ com.adyen.checkout.bcmc.R$color
+ com.adyen.checkout.bcmc.R$dimen
+ com.adyen.checkout.bcmc.R$drawable
+ com.adyen.checkout.bcmc.R$id
+ com.adyen.checkout.bcmc.R$integer
+ com.adyen.checkout.bcmc.R$interpolator
+ com.adyen.checkout.bcmc.R$layout
+ com.adyen.checkout.bcmc.R$plurals
+ com.adyen.checkout.bcmc.R$string
+ com.adyen.checkout.bcmc.R$style
+ com.adyen.checkout.bcmc.R$styleable
+ com.adyen.checkout.bcmc.R$xml
+com/google/android/gms/common/R.java
+ com.google.android.gms.common.R
+ com.google.android.gms.common.R$integer
+ com.google.android.gms.common.R$string
+androidx/activity/R.java
+ androidx.activity.R
+ androidx.activity.R$attr
+ androidx.activity.R$color
+ androidx.activity.R$dimen
+ androidx.activity.R$drawable
+ androidx.activity.R$id
+ androidx.activity.R$integer
+ androidx.activity.R$layout
+ androidx.activity.R$string
+ androidx.activity.R$style
+ androidx.activity.R$styleable
+androidx/recyclerview/R.java
+ androidx.recyclerview.R
+ androidx.recyclerview.R$attr
+ androidx.recyclerview.R$color
+ androidx.recyclerview.R$dimen
+ androidx.recyclerview.R$drawable
+ androidx.recyclerview.R$id
+ androidx.recyclerview.R$integer
+ androidx.recyclerview.R$layout
+ androidx.recyclerview.R$string
+ androidx.recyclerview.R$style
+ androidx.recyclerview.R$styleable
+com/adyen/checkout/qrcode/R.java
+ com.adyen.checkout.qrcode.R
+ com.adyen.checkout.qrcode.R$anim
+ com.adyen.checkout.qrcode.R$animator
+ com.adyen.checkout.qrcode.R$attr
+ com.adyen.checkout.qrcode.R$bool
+ com.adyen.checkout.qrcode.R$color
+ com.adyen.checkout.qrcode.R$dimen
+ com.adyen.checkout.qrcode.R$drawable
+ com.adyen.checkout.qrcode.R$id
+ com.adyen.checkout.qrcode.R$integer
+ com.adyen.checkout.qrcode.R$interpolator
+ com.adyen.checkout.qrcode.R$layout
+ com.adyen.checkout.qrcode.R$plurals
+ com.adyen.checkout.qrcode.R$string
+ com.adyen.checkout.qrcode.R$style
+ com.adyen.checkout.qrcode.R$styleable
+ com.adyen.checkout.qrcode.R$xml
+com/google/android/gms/base/R.java
+ com.google.android.gms.base.R
+ com.google.android.gms.base.R$attr
+ com.google.android.gms.base.R$color
+ com.google.android.gms.base.R$drawable
+ com.google.android.gms.base.R$id
+ com.google.android.gms.base.R$string
+ com.google.android.gms.base.R$styleable
+androidx/drawerlayout/R.java
+ androidx.drawerlayout.R
+ androidx.drawerlayout.R$attr
+ androidx.drawerlayout.R$color
+ androidx.drawerlayout.R$dimen
+ androidx.drawerlayout.R$drawable
+ androidx.drawerlayout.R$id
+ androidx.drawerlayout.R$integer
+ androidx.drawerlayout.R$layout
+ androidx.drawerlayout.R$string
+ androidx.drawerlayout.R$style
+ androidx.drawerlayout.R$styleable
+androidx/versionedparcelable/R.java
+ androidx.versionedparcelable.R
+com/adyen/checkout/card/R.java
+ com.adyen.checkout.card.R
+ com.adyen.checkout.card.R$anim
+ com.adyen.checkout.card.R$animator
+ com.adyen.checkout.card.R$attr
+ com.adyen.checkout.card.R$bool
+ com.adyen.checkout.card.R$color
+ com.adyen.checkout.card.R$dimen
+ com.adyen.checkout.card.R$drawable
+ com.adyen.checkout.card.R$id
+ com.adyen.checkout.card.R$integer
+ com.adyen.checkout.card.R$interpolator
+ com.adyen.checkout.card.R$layout
+ com.adyen.checkout.card.R$plurals
+ com.adyen.checkout.card.R$string
+ com.adyen.checkout.card.R$style
+ com.adyen.checkout.card.R$styleable
+ com.adyen.checkout.card.R$xml
+com/facebook/soloader/R.java
+ com.facebook.soloader.R
+androidx/lifecycle/ktx/R.java
+ androidx.lifecycle.ktx.R
+ androidx.lifecycle.ktx.R$id
+androidx/dynamicanimation/R.java
+ androidx.dynamicanimation.R
+ androidx.dynamicanimation.R$attr
+ androidx.dynamicanimation.R$color
+ androidx.dynamicanimation.R$dimen
+ androidx.dynamicanimation.R$drawable
+ androidx.dynamicanimation.R$id
+ androidx.dynamicanimation.R$integer
+ androidx.dynamicanimation.R$layout
+ androidx.dynamicanimation.R$string
+ androidx.dynamicanimation.R$style
+ androidx.dynamicanimation.R$styleable
+com/facebook/imagepipeline/backends/okhttp3/R.java
+ com.facebook.imagepipeline.backends.okhttp3.R
+androidx/savedstate/ktx/R.java
+ androidx.savedstate.ktx.R
+ androidx.savedstate.ktx.R$id
+androidx/core/ktx/R.java
+ androidx.core.ktx.R
+ androidx.core.ktx.R$attr
+ androidx.core.ktx.R$color
+ androidx.core.ktx.R$dimen
+ androidx.core.ktx.R$drawable
+ androidx.core.ktx.R$id
+ androidx.core.ktx.R$integer
+ androidx.core.ktx.R$layout
+ androidx.core.ktx.R$string
+ androidx.core.ktx.R$style
+ androidx.core.ktx.R$styleable
+com/adyen/threeds2/R.java
+ com.adyen.threeds2.R
+ com.adyen.threeds2.R$anim
+ com.adyen.threeds2.R$attr
+ com.adyen.threeds2.R$bool
+ com.adyen.threeds2.R$color
+ com.adyen.threeds2.R$dimen
+ com.adyen.threeds2.R$drawable
+ com.adyen.threeds2.R$id
+ com.adyen.threeds2.R$integer
+ com.adyen.threeds2.R$interpolator
+ com.adyen.threeds2.R$layout
+ com.adyen.threeds2.R$string
+ com.adyen.threeds2.R$style
+ com.adyen.threeds2.R$styleable
+androidx/lifecycle/livedata/core/ktx/R.java
+ androidx.lifecycle.livedata.core.ktx.R
+androidx/lifecycle/viewmodel/R.java
+ androidx.lifecycle.viewmodel.R
+ androidx.lifecycle.viewmodel.R$id
+com/adyen/checkout/dropin/R.java
+ com.adyen.checkout.dropin.R
+ com.adyen.checkout.dropin.R$anim
+ com.adyen.checkout.dropin.R$animator
+ com.adyen.checkout.dropin.R$attr
+ com.adyen.checkout.dropin.R$bool
+ com.adyen.checkout.dropin.R$color
+ com.adyen.checkout.dropin.R$dimen
+ com.adyen.checkout.dropin.R$drawable
+ com.adyen.checkout.dropin.R$id
+ com.adyen.checkout.dropin.R$integer
+ com.adyen.checkout.dropin.R$interpolator
+ com.adyen.checkout.dropin.R$layout
+ com.adyen.checkout.dropin.R$plurals
+ com.adyen.checkout.dropin.R$string
+ com.adyen.checkout.dropin.R$style
+ com.adyen.checkout.dropin.R$styleable
+ com.adyen.checkout.dropin.R$xml
+com/rnadyen/RnAdyenModule.java
+ com.rnadyen.RnAdyenModule
+ com.rnadyen.RnAdyenModule$1
+androidx/cursoradapter/R.java
+ androidx.cursoradapter.R
+androidx/cardview/R.java
+ androidx.cardview.R
+ androidx.cardview.R$attr
+ androidx.cardview.R$color
+ androidx.cardview.R$dimen
+ androidx.cardview.R$style
+ androidx.cardview.R$styleable
+androidx/swiperefreshlayout/R.java
+ androidx.swiperefreshlayout.R
+ androidx.swiperefreshlayout.R$attr
+ androidx.swiperefreshlayout.R$color
+ androidx.swiperefreshlayout.R$dimen
+ androidx.swiperefreshlayout.R$drawable
+ androidx.swiperefreshlayout.R$id
+ androidx.swiperefreshlayout.R$integer
+ androidx.swiperefreshlayout.R$layout
+ androidx.swiperefreshlayout.R$string
+ androidx.swiperefreshlayout.R$style
+ androidx.swiperefreshlayout.R$styleable
+androidx/coordinatorlayout/R.java
+ androidx.coordinatorlayout.R
+ androidx.coordinatorlayout.R$attr
+ androidx.coordinatorlayout.R$color
+ androidx.coordinatorlayout.R$dimen
+ androidx.coordinatorlayout.R$drawable
+ androidx.coordinatorlayout.R$id
+ androidx.coordinatorlayout.R$integer
+ androidx.coordinatorlayout.R$layout
+ androidx.coordinatorlayout.R$string
+ androidx.coordinatorlayout.R$style
+ androidx.coordinatorlayout.R$styleable
+androidx/lifecycle/livedata/R.java
+ androidx.lifecycle.livedata.R
+androidx/appcompat/R.java
+ androidx.appcompat.R
+ androidx.appcompat.R$anim
+ androidx.appcompat.R$animator
+ androidx.appcompat.R$attr
+ androidx.appcompat.R$bool
+ androidx.appcompat.R$color
+ androidx.appcompat.R$dimen
+ androidx.appcompat.R$drawable
+ androidx.appcompat.R$id
+ androidx.appcompat.R$integer
+ androidx.appcompat.R$interpolator
+ androidx.appcompat.R$layout
+ androidx.appcompat.R$string
+ androidx.appcompat.R$style
+ androidx.appcompat.R$styleable
+com/adyen/checkout/await/R.java
+ com.adyen.checkout.await.R
+ com.adyen.checkout.await.R$anim
+ com.adyen.checkout.await.R$animator
+ com.adyen.checkout.await.R$attr
+ com.adyen.checkout.await.R$bool
+ com.adyen.checkout.await.R$color
+ com.adyen.checkout.await.R$dimen
+ com.adyen.checkout.await.R$drawable
+ com.adyen.checkout.await.R$id
+ com.adyen.checkout.await.R$integer
+ com.adyen.checkout.await.R$interpolator
+ com.adyen.checkout.await.R$layout
+ com.adyen.checkout.await.R$plurals
+ com.adyen.checkout.await.R$string
+ com.adyen.checkout.await.R$style
+ com.adyen.checkout.await.R$styleable
+ com.adyen.checkout.await.R$xml
+androidx/documentfile/R.java
+ androidx.documentfile.R
+androidx/customview/R.java
+ androidx.customview.R
+ androidx.customview.R$attr
+ androidx.customview.R$color
+ androidx.customview.R$dimen
+ androidx.customview.R$drawable
+ androidx.customview.R$id
+ androidx.customview.R$integer
+ androidx.customview.R$layout
+ androidx.customview.R$string
+ androidx.customview.R$style
+ androidx.customview.R$styleable
+androidx/lifecycle/viewmodel/ktx/R.java
+ androidx.lifecycle.viewmodel.ktx.R
+ androidx.lifecycle.viewmodel.ktx.R$id
+com/google/android/gms/identity/R.java
+ com.google.android.gms.identity.R
+androidx/loader/R.java
+ androidx.loader.R
+ androidx.loader.R$attr
+ androidx.loader.R$color
+ androidx.loader.R$dimen
+ androidx.loader.R$drawable
+ androidx.loader.R$id
+ androidx.loader.R$integer
+ androidx.loader.R$layout
+ androidx.loader.R$string
+ androidx.loader.R$style
+ androidx.loader.R$styleable
+com/adyen/checkout/redirect/R.java
+ com.adyen.checkout.redirect.R
+ com.adyen.checkout.redirect.R$anim
+ com.adyen.checkout.redirect.R$animator
+ com.adyen.checkout.redirect.R$attr
+ com.adyen.checkout.redirect.R$bool
+ com.adyen.checkout.redirect.R$color
+ com.adyen.checkout.redirect.R$dimen
+ com.adyen.checkout.redirect.R$drawable
+ com.adyen.checkout.redirect.R$id
+ com.adyen.checkout.redirect.R$integer
+ com.adyen.checkout.redirect.R$interpolator
+ com.adyen.checkout.redirect.R$layout
+ com.adyen.checkout.redirect.R$plurals
+ com.adyen.checkout.redirect.R$string
+ com.adyen.checkout.redirect.R$style
+ com.adyen.checkout.redirect.R$styleable
+ com.adyen.checkout.redirect.R$xml
+androidx/legacy/coreutils/R.java
+ androidx.legacy.coreutils.R
+ androidx.legacy.coreutils.R$attr
+ androidx.legacy.coreutils.R$color
+ androidx.legacy.coreutils.R$dimen
+ androidx.legacy.coreutils.R$drawable
+ androidx.legacy.coreutils.R$id
+ androidx.legacy.coreutils.R$integer
+ androidx.legacy.coreutils.R$layout
+ androidx.legacy.coreutils.R$string
+ androidx.legacy.coreutils.R$style
+ androidx.legacy.coreutils.R$styleable
+com/adyen/checkout/components/ui/R.java
+ com.adyen.checkout.components.ui.R
+ com.adyen.checkout.components.ui.R$anim
+ com.adyen.checkout.components.ui.R$animator
+ com.adyen.checkout.components.ui.R$attr
+ com.adyen.checkout.components.ui.R$bool
+ com.adyen.checkout.components.ui.R$color
+ com.adyen.checkout.components.ui.R$dimen
+ com.adyen.checkout.components.ui.R$drawable
+ com.adyen.checkout.components.ui.R$id
+ com.adyen.checkout.components.ui.R$integer
+ com.adyen.checkout.components.ui.R$interpolator
+ com.adyen.checkout.components.ui.R$layout
+ com.adyen.checkout.components.ui.R$plurals
+ com.adyen.checkout.components.ui.R$string
+ com.adyen.checkout.components.ui.R$style
+ com.adyen.checkout.components.ui.R$styleable
+ com.adyen.checkout.components.ui.R$xml
+com/google/android/material/R.java
+ com.google.android.material.R
+ com.google.android.material.R$anim
+ com.google.android.material.R$animator
+ com.google.android.material.R$attr
+ com.google.android.material.R$bool
+ com.google.android.material.R$color
+ com.google.android.material.R$dimen
+ com.google.android.material.R$drawable
+ com.google.android.material.R$id
+ com.google.android.material.R$integer
+ com.google.android.material.R$interpolator
+ com.google.android.material.R$layout
+ com.google.android.material.R$plurals
+ com.google.android.material.R$string
+ com.google.android.material.R$style
+ com.google.android.material.R$styleable
+ com.google.android.material.R$xml
+androidx/annotation/experimental/R.java
+ androidx.annotation.experimental.R
+androidx/lifecycle/runtime/R.java
+ androidx.lifecycle.runtime.R
+ androidx.lifecycle.runtime.R$id
+com/facebook/drawee/R.java
+ com.facebook.drawee.R
+ com.facebook.drawee.R$attr
+ com.facebook.drawee.R$id
+ com.facebook.drawee.R$styleable
+com/tencent/mm/opensdk/R.java
+ com.tencent.mm.opensdk.R
+androidx/tracing/R.java
+ androidx.tracing.R
+androidx/constraintlayout/widget/R.java
+ androidx.constraintlayout.widget.R
+ androidx.constraintlayout.widget.R$anim
+ androidx.constraintlayout.widget.R$attr
+ androidx.constraintlayout.widget.R$bool
+ androidx.constraintlayout.widget.R$color
+ androidx.constraintlayout.widget.R$dimen
+ androidx.constraintlayout.widget.R$drawable
+ androidx.constraintlayout.widget.R$id
+ androidx.constraintlayout.widget.R$integer
+ androidx.constraintlayout.widget.R$interpolator
+ androidx.constraintlayout.widget.R$layout
+ androidx.constraintlayout.widget.R$string
+ androidx.constraintlayout.widget.R$style
+ androidx.constraintlayout.widget.R$styleable
+com/google/android/gms/wallet/R.java
+ com.google.android.gms.wallet.R
+ com.google.android.gms.wallet.R$attr
+ com.google.android.gms.wallet.R$color
+ com.google.android.gms.wallet.R$id
+ com.google.android.gms.wallet.R$layout
+ com.google.android.gms.wallet.R$string
+ com.google.android.gms.wallet.R$style
+ com.google.android.gms.wallet.R$styleable
+com/adyen/checkout/openbanking/R.java
+ com.adyen.checkout.openbanking.R
+ com.adyen.checkout.openbanking.R$anim
+ com.adyen.checkout.openbanking.R$animator
+ com.adyen.checkout.openbanking.R$attr
+ com.adyen.checkout.openbanking.R$bool
+ com.adyen.checkout.openbanking.R$color
+ com.adyen.checkout.openbanking.R$dimen
+ com.adyen.checkout.openbanking.R$drawable
+ com.adyen.checkout.openbanking.R$id
+ com.adyen.checkout.openbanking.R$integer
+ com.adyen.checkout.openbanking.R$interpolator
+ com.adyen.checkout.openbanking.R$layout
+ com.adyen.checkout.openbanking.R$plurals
+ com.adyen.checkout.openbanking.R$string
+ com.adyen.checkout.openbanking.R$style
+ com.adyen.checkout.openbanking.R$styleable
+ com.adyen.checkout.openbanking.R$xml
+com/facebook/nativeimagetranscoder/R.java
+ com.facebook.nativeimagetranscoder.R
+com/adyen/checkout/components/R.java
+ com.adyen.checkout.components.R
+ com.adyen.checkout.components.R$anim
+ com.adyen.checkout.components.R$animator
+ com.adyen.checkout.components.R$attr
+ com.adyen.checkout.components.R$color
+ com.adyen.checkout.components.R$dimen
+ com.adyen.checkout.components.R$drawable
+ com.adyen.checkout.components.R$id
+ com.adyen.checkout.components.R$integer
+ com.adyen.checkout.components.R$layout
+ com.adyen.checkout.components.R$string
+ com.adyen.checkout.components.R$style
+ com.adyen.checkout.components.R$styleable
+androidx/viewbinding/R.java
+ androidx.viewbinding.R
+com/adyen/checkout/adyen3ds2/R.java
+ com.adyen.checkout.adyen3ds2.R
+ com.adyen.checkout.adyen3ds2.R$anim
+ com.adyen.checkout.adyen3ds2.R$animator
+ com.adyen.checkout.adyen3ds2.R$attr
+ com.adyen.checkout.adyen3ds2.R$bool
+ com.adyen.checkout.adyen3ds2.R$color
+ com.adyen.checkout.adyen3ds2.R$dimen
+ com.adyen.checkout.adyen3ds2.R$drawable
+ com.adyen.checkout.adyen3ds2.R$id
+ com.adyen.checkout.adyen3ds2.R$integer
+ com.adyen.checkout.adyen3ds2.R$interpolator
+ com.adyen.checkout.adyen3ds2.R$layout
+ com.adyen.checkout.adyen3ds2.R$plurals
+ com.adyen.checkout.adyen3ds2.R$string
+ com.adyen.checkout.adyen3ds2.R$style
+ com.adyen.checkout.adyen3ds2.R$styleable
+ com.adyen.checkout.adyen3ds2.R$xml
+androidx/viewpager/R.java
+ androidx.viewpager.R
+ androidx.viewpager.R$attr
+ androidx.viewpager.R$color
+ androidx.viewpager.R$dimen
+ androidx.viewpager.R$drawable
+ androidx.viewpager.R$id
+ androidx.viewpager.R$integer
+ androidx.viewpager.R$layout
+ androidx.viewpager.R$string
+ androidx.viewpager.R$style
+ androidx.viewpager.R$styleable
+androidx/localbroadcastmanager/R.java
+ androidx.localbroadcastmanager.R
+androidx/fragment/ktx/R.java
+ androidx.fragment.ktx.R
+ androidx.fragment.ktx.R$anim
+ androidx.fragment.ktx.R$animator
+ androidx.fragment.ktx.R$attr
+ androidx.fragment.ktx.R$color
+ androidx.fragment.ktx.R$dimen
+ androidx.fragment.ktx.R$drawable
+ androidx.fragment.ktx.R$id
+ androidx.fragment.ktx.R$integer
+ androidx.fragment.ktx.R$layout
+ androidx.fragment.ktx.R$string
+ androidx.fragment.ktx.R$style
+ androidx.fragment.ktx.R$styleable
+com/adyen/checkout/mbway/R.java
+ com.adyen.checkout.mbway.R
+ com.adyen.checkout.mbway.R$anim
+ com.adyen.checkout.mbway.R$animator
+ com.adyen.checkout.mbway.R$attr
+ com.adyen.checkout.mbway.R$bool
+ com.adyen.checkout.mbway.R$color
+ com.adyen.checkout.mbway.R$dimen
+ com.adyen.checkout.mbway.R$drawable
+ com.adyen.checkout.mbway.R$id
+ com.adyen.checkout.mbway.R$integer
+ com.adyen.checkout.mbway.R$interpolator
+ com.adyen.checkout.mbway.R$layout
+ com.adyen.checkout.mbway.R$plurals
+ com.adyen.checkout.mbway.R$string
+ com.adyen.checkout.mbway.R$style
+ com.adyen.checkout.mbway.R$styleable
+ com.adyen.checkout.mbway.R$xml
+com/rnadyen/BuildConfig.java
+ com.rnadyen.BuildConfig
+com/adyen/checkout/molpay/R.java
+ com.adyen.checkout.molpay.R
+ com.adyen.checkout.molpay.R$anim
+ com.adyen.checkout.molpay.R$animator
+ com.adyen.checkout.molpay.R$attr
+ com.adyen.checkout.molpay.R$bool
+ com.adyen.checkout.molpay.R$color
+ com.adyen.checkout.molpay.R$dimen
+ com.adyen.checkout.molpay.R$drawable
+ com.adyen.checkout.molpay.R$id
+ com.adyen.checkout.molpay.R$integer
+ com.adyen.checkout.molpay.R$interpolator
+ com.adyen.checkout.molpay.R$layout
+ com.adyen.checkout.molpay.R$plurals
+ com.adyen.checkout.molpay.R$string
+ com.adyen.checkout.molpay.R$style
+ com.adyen.checkout.molpay.R$styleable
+ com.adyen.checkout.molpay.R$xml
+com/google/android/gms/tasks/R.java
+ com.google.android.gms.tasks.R
+com/adyen/checkout/ideal/R.java
+ com.adyen.checkout.ideal.R
+ com.adyen.checkout.ideal.R$anim
+ com.adyen.checkout.ideal.R$animator
+ com.adyen.checkout.ideal.R$attr
+ com.adyen.checkout.ideal.R$bool
+ com.adyen.checkout.ideal.R$color
+ com.adyen.checkout.ideal.R$dimen
+ com.adyen.checkout.ideal.R$drawable
+ com.adyen.checkout.ideal.R$id
+ com.adyen.checkout.ideal.R$integer
+ com.adyen.checkout.ideal.R$interpolator
+ com.adyen.checkout.ideal.R$layout
+ com.adyen.checkout.ideal.R$plurals
+ com.adyen.checkout.ideal.R$string
+ com.adyen.checkout.ideal.R$style
+ com.adyen.checkout.ideal.R$styleable
+ com.adyen.checkout.ideal.R$xml
+com/rnadyen/R.java
+ com.rnadyen.R
+ com.rnadyen.R$anim
+ com.rnadyen.R$animator
+ com.rnadyen.R$attr
+ com.rnadyen.R$bool
+ com.rnadyen.R$color
+ com.rnadyen.R$dimen
+ com.rnadyen.R$drawable
+ com.rnadyen.R$id
+ com.rnadyen.R$integer
+ com.rnadyen.R$interpolator
+ com.rnadyen.R$layout
+ com.rnadyen.R$plurals
+ com.rnadyen.R$string
+ com.rnadyen.R$style
+ com.rnadyen.R$styleable
+ com.rnadyen.R$xml
+com/adyen/checkout/blik/R.java
+ com.adyen.checkout.blik.R
+ com.adyen.checkout.blik.R$anim
+ com.adyen.checkout.blik.R$animator
+ com.adyen.checkout.blik.R$attr
+ com.adyen.checkout.blik.R$bool
+ com.adyen.checkout.blik.R$color
+ com.adyen.checkout.blik.R$dimen
+ com.adyen.checkout.blik.R$drawable
+ com.adyen.checkout.blik.R$id
+ com.adyen.checkout.blik.R$integer
+ com.adyen.checkout.blik.R$interpolator
+ com.adyen.checkout.blik.R$layout
+ com.adyen.checkout.blik.R$plurals
+ com.adyen.checkout.blik.R$string
+ com.adyen.checkout.blik.R$style
+ com.adyen.checkout.blik.R$styleable
+ com.adyen.checkout.blik.R$xml
+com/adyen/checkout/dotpay/R.java
+ com.adyen.checkout.dotpay.R
+ com.adyen.checkout.dotpay.R$anim
+ com.adyen.checkout.dotpay.R$animator
+ com.adyen.checkout.dotpay.R$attr
+ com.adyen.checkout.dotpay.R$bool
+ com.adyen.checkout.dotpay.R$color
+ com.adyen.checkout.dotpay.R$dimen
+ com.adyen.checkout.dotpay.R$drawable
+ com.adyen.checkout.dotpay.R$id
+ com.adyen.checkout.dotpay.R$integer
+ com.adyen.checkout.dotpay.R$interpolator
+ com.adyen.checkout.dotpay.R$layout
+ com.adyen.checkout.dotpay.R$plurals
+ com.adyen.checkout.dotpay.R$string
+ com.adyen.checkout.dotpay.R$style
+ com.adyen.checkout.dotpay.R$styleable
+ com.adyen.checkout.dotpay.R$xml
+androidx/browser/R.java
+ androidx.browser.R
+ androidx.browser.R$attr
+ androidx.browser.R$color
+ androidx.browser.R$dimen
+ androidx.browser.R$drawable
+ androidx.browser.R$id
+ androidx.browser.R$integer
+ androidx.browser.R$layout
+ androidx.browser.R$string
+ androidx.browser.R$style
+ androidx.browser.R$styleable
+ androidx.browser.R$xml
+com/adyen/checkout/googlepay/R.java
+ com.adyen.checkout.googlepay.R
+ com.adyen.checkout.googlepay.R$anim
+ com.adyen.checkout.googlepay.R$animator
+ com.adyen.checkout.googlepay.R$attr
+ com.adyen.checkout.googlepay.R$color
+ com.adyen.checkout.googlepay.R$dimen
+ com.adyen.checkout.googlepay.R$drawable
+ com.adyen.checkout.googlepay.R$id
+ com.adyen.checkout.googlepay.R$integer
+ com.adyen.checkout.googlepay.R$layout
+ com.adyen.checkout.googlepay.R$string
+ com.adyen.checkout.googlepay.R$style
+ com.adyen.checkout.googlepay.R$styleable
+com/adyen/checkout/cse/R.java
+ com.adyen.checkout.cse.R
+com/adyen/checkout/sepa/R.java
+ com.adyen.checkout.sepa.R
+ com.adyen.checkout.sepa.R$anim
+ com.adyen.checkout.sepa.R$animator
+ com.adyen.checkout.sepa.R$attr
+ com.adyen.checkout.sepa.R$bool
+ com.adyen.checkout.sepa.R$color
+ com.adyen.checkout.sepa.R$dimen
+ com.adyen.checkout.sepa.R$drawable
+ com.adyen.checkout.sepa.R$id
+ com.adyen.checkout.sepa.R$integer
+ com.adyen.checkout.sepa.R$interpolator
+ com.adyen.checkout.sepa.R$layout
+ com.adyen.checkout.sepa.R$plurals
+ com.adyen.checkout.sepa.R$string
+ com.adyen.checkout.sepa.R$style
+ com.adyen.checkout.sepa.R$styleable
+ com.adyen.checkout.sepa.R$xml
+androidx/lifecycle/viewmodel/savedstate/R.java
+ androidx.lifecycle.viewmodel.savedstate.R
+ androidx.lifecycle.viewmodel.savedstate.R$id
+com/adyen/checkout/eps/R.java
+ com.adyen.checkout.eps.R
+ com.adyen.checkout.eps.R$anim
+ com.adyen.checkout.eps.R$animator
+ com.adyen.checkout.eps.R$attr
+ com.adyen.checkout.eps.R$bool
+ com.adyen.checkout.eps.R$color
+ com.adyen.checkout.eps.R$dimen
+ com.adyen.checkout.eps.R$drawable
+ com.adyen.checkout.eps.R$id
+ com.adyen.checkout.eps.R$integer
+ com.adyen.checkout.eps.R$interpolator
+ com.adyen.checkout.eps.R$layout
+ com.adyen.checkout.eps.R$plurals
+ com.adyen.checkout.eps.R$string
+ com.adyen.checkout.eps.R$style
+ com.adyen.checkout.eps.R$styleable
+ com.adyen.checkout.eps.R$xml
+androidx/vectordrawable/animated/R.java
+ androidx.vectordrawable.animated.R
+ androidx.vectordrawable.animated.R$attr
+ androidx.vectordrawable.animated.R$color
+ androidx.vectordrawable.animated.R$dimen
+ androidx.vectordrawable.animated.R$drawable
+ androidx.vectordrawable.animated.R$id
+ androidx.vectordrawable.animated.R$integer
+ androidx.vectordrawable.animated.R$layout
+ androidx.vectordrawable.animated.R$string
+ androidx.vectordrawable.animated.R$style
+ androidx.vectordrawable.animated.R$styleable
+androidx/viewpager2/R.java
+ androidx.viewpager2.R
+ androidx.viewpager2.R$attr
+ androidx.viewpager2.R$color
+ androidx.viewpager2.R$dimen
+ androidx.viewpager2.R$drawable
+ androidx.viewpager2.R$id
+ androidx.viewpager2.R$integer
+ androidx.viewpager2.R$layout
+ androidx.viewpager2.R$string
+ androidx.viewpager2.R$style
+ androidx.viewpager2.R$styleable
+com/adyen/checkout/entercash/R.java
+ com.adyen.checkout.entercash.R
+ com.adyen.checkout.entercash.R$anim
+ com.adyen.checkout.entercash.R$animator
+ com.adyen.checkout.entercash.R$attr
+ com.adyen.checkout.entercash.R$bool
+ com.adyen.checkout.entercash.R$color
+ com.adyen.checkout.entercash.R$dimen
+ com.adyen.checkout.entercash.R$drawable
+ com.adyen.checkout.entercash.R$id
+ com.adyen.checkout.entercash.R$integer
+ com.adyen.checkout.entercash.R$interpolator
+ com.adyen.checkout.entercash.R$layout
+ com.adyen.checkout.entercash.R$plurals
+ com.adyen.checkout.entercash.R$string
+ com.adyen.checkout.entercash.R$style
+ com.adyen.checkout.entercash.R$styleable
+ com.adyen.checkout.entercash.R$xml

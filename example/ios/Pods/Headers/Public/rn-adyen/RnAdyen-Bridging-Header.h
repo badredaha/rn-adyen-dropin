@@ -1,0 +1,1 @@
+../../../../../../ios/RnAdyen-Bridging-Header.h

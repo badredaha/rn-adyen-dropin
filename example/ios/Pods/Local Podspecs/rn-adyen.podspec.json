@@ -1,0 +1,21 @@
+{
+  "name": "rn-adyen",
+  "version": "0.1.0",
+  "summary": "React native module for Adyen DropIn",
+  "homepage": "https://github.com/badredaha/rn-adyen-dropin#readme",
+  "license": "MIT",
+  "authors": "badre daha belghiti <badre.daha@gmail.com> (https://github.com/badredaha)",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/badredaha/rn-adyen-dropin.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

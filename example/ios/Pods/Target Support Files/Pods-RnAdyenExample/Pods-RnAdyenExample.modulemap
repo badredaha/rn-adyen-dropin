@@ -1,0 +1,6 @@
+module Pods_RnAdyenExample {
+  umbrella header "Pods-RnAdyenExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.adyen.checkout:checkout-core:4.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/23b0f2877264cebd44a24e479ca36d52/transformed/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/23b0f2877264cebd44a24e479ca36d52/transformed/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/23b0f2877264cebd44a24e479ca36d52/transformed/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/23b0f2877264cebd44a24e479ca36d52/transformed/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

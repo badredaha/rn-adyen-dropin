@@ -1,0 +1,6 @@
+module rn_adyen {
+  umbrella header "rn-adyen-umbrella.h"
+
+  export *
+  module * { export * }
+}
