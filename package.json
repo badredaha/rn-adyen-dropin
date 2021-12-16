@@ -1,6 +1,6 @@
 {
   "name": "rn-adyen-dropin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "RN Lib for Adyen DropIn ",
   "main": "index.js",
   "directories": {
