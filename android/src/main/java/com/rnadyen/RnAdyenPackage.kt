@@ -1,9 +1,11 @@
 package com.rnadyen
 
+
 import com.facebook.react.ReactPackage
 import com.facebook.react.bridge.NativeModule
 import com.facebook.react.bridge.ReactApplicationContext
 import com.facebook.react.uimanager.ViewManager
+import java.util.*
 
 
 class RnAdyenPackage : ReactPackage {
@@ -11,7 +13,7 @@ class RnAdyenPackage : ReactPackage {
         return listOf(RnAdyenModule(reactContext))
     }
 
-    override fun createViewManagers(reactContext: ReactApplicationContext): List<ViewManager<*, *>> {
-        return emptyList()
+  override fun createViewManagers(reactContext: ReactApplicationContext): List<ViewManager<*, *>> {
+        return Collections.emptyList()
     }
 }

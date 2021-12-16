@@ -1,4 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.rnadyen">
-
-</manifest>
+  <application
+    android:allowBackup="false"
+    android:theme="@style/AppTheme">
+    <service android:name="com.apps.bridges.adyen.services.AdyenDropInService"/>
+  </application></manifest>
